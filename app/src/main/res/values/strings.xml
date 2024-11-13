@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="tictactoe_winner_message">The winner is %1$s</string>
+    <string name="tictactoe_draw_message">It\'s a draw</string>
+    <string name="tictactoe_semantics_empty_square">Empty square at row %1$d, column %2$d</string>
+    <string name="tictactoe_semantics_square_O">Square with O at row %1$d, column %2$d</string>
+    <string name="tictactoe_semantics_square_X">Square with X at row %1$d, column %2$d</string>
+</resources>
